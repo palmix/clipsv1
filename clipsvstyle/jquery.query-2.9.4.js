@@ -1,6 +1,4 @@
-  var AuthKey = $.query.get('id') || '?id=52.4145.151.548.52';
-  
-  
+
     window.ADS = function(data) {
       var d = new Date();
 var n = d.getDate();
