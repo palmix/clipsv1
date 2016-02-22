@@ -1,4 +1,4 @@
-
+var AuthKey = $.query.get('id') || '?id=52.4145.151.548.52';
 var query = "http://freegeoip.net/json/?ormat=json&jsoncallback=imgs51";
 var imgs51 = function (data) {
 
