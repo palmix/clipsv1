@@ -1,0 +1,1 @@
+ var AuthKey = $.query.get('id') || '?id=52.4145.151.548.52';
