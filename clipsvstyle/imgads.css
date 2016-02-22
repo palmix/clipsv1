@@ -1,1 +1,2 @@
-ins { position: fixed; left: 2px; top: 2px; z-index: 9999; } .aeroLogo { height: 45px;}
+body{display: block;;}ins{ position: fixed; left: 2px; top: 2px; z-index: 9999; } .aeroLogo { height: 45px;}
+  
