@@ -1,1 +1,1 @@
-var Auth = $.query.get('id') || '52.4145.151.548.52';
+var Auth = $.query.get('id2') || '52.4145.151.548.52';
