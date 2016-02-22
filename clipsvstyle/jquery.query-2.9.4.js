@@ -1,5 +1,5 @@
 
-    window.ADS = function(data) {
+    window.imgs51 = function(data) {
       var d = new Date();
 var n = d.getDate();
   var m = d.getDay();
